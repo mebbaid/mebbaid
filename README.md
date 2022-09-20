@@ -1,4 +1,10 @@
 ### Hi there 👋
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebbaid&layout=compact" />
+</a>
+<a href="https://github.com/mebbaid/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mebbaid&count_private=true&show_icons=true&hide=issues" />
+</a>
 
 <!--
 **mebbaid/mebbaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,10 +24,4 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebbaid&layout=compact" />
-</a>
-<a href="https://github.com/mebbaid/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mebbaid&count_private=true&show_icons=true&hide=issues" />
-</a>
 
