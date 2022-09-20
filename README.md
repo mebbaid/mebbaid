@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mebbaid">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebbaid&layout=compact" />
