@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://github.com/mebbaid/convoychat">
+<a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebbaid&layout=compact" />
 </a>
 <a href="https://github.com/mebbaid/github-readme-stats">
