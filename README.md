@@ -1,9 +1,9 @@
 ### Hi there 👋
-<p align="center">
+<!--p align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mebbaid">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebbaid&layout=compact" />
   </a>
-</p>
+</p-->
 
 <!--
 **mebbaid/mebbaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
